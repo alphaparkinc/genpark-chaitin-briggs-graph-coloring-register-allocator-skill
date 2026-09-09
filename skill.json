@@ -1,0 +1,13 @@
+{
+  "name": "genpark-chaitin-briggs-graph-coloring-register-allocator-skill",
+  "version": "1.0.0",
+  "description": "Chaitin-Briggs graph coloring register allocator featuring Kempe heuristics, interference graph simplification, and optimistic spill recovery.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "compiler-design",
+    "register-allocation",
+    "graph-coloring",
+    "chaitin-briggs"
+  ]
+}
